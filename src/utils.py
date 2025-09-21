@@ -1,0 +1,1 @@
+print(f"DEBUG: Data received: {data}")
