@@ -1,0 +1,1 @@
+logging.info("Processing request for user: %s")
