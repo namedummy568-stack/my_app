@@ -1,1 +1,1 @@
-logging.info("Processing request for user: %s")
+logging.debug("Processing request for user: %s", user_id)
