@@ -1,1 +1,1 @@
-print(f"DEBUG: Data received: {data}")
+print(f"DEBUG: Data received: {data}, type: {type(data)}")
